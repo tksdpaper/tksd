@@ -1,6 +1,6 @@
-# Approximate Stein Discrepancies for Truncated Density Estimation
+# Approximate Stein Classes for Truncated Density Estimation
 
-This python repo is intended to reproduce the results from the _Approximate Stein Discrepancies for Truncated Density Estimation_ paper. Within it you will find examples of the TKSD method for basic scenarios, and scripts for reproducing plots found in the paper.
+This python repo is intended to reproduce the results from the _Approximate Stein Classes for Truncated Density Estimation_ paper. Within it you will find examples of the TKSD method for basic scenarios, and scripts for reproducing plots found in the paper.
 
 
 ## Installation and Requirements
